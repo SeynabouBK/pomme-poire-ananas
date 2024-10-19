@@ -1,4 +1,14 @@
-# pomme_poire_ananas
+# pomme_poire_ananas développée pae Seynabou BA KANE
+
+1. Architecture du projet
+main.dart : Démarrage de l'application.
+my_app.dart : Racine de l'application (MyApp).
+my_home_page.dart : Logique principale et interactions utilisateur.
+
+2. Ce que j'ai appris de ce TP
+Séparation du code pour la modularité.
+Widgets dynamiques et gestion d'état pour une interface réactive.
+Refactoring pour simplifier l'ajout de nouvelles fonctionnalités.
 
 A new Flutter project.
 
